@@ -2,7 +2,7 @@
 
 Source code on adding Pop Up UIAlert Controller in Swift 2 Using Xcode 7.1
 
-Tutorial: Coming Soon
+Tutorial: https://www.youtube.com/watch?v=DQzW_702LxQ
 
 Check out our Website: http://www.mstcode.com
 
